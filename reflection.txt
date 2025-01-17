@@ -1,0 +1,7 @@
+Reflection: 
+    I am super excited to start this course on Data Mining. I was surprised to learn how connected machine learning was to data mining. I remembered learning about K-means in the machine learning course.  I am excited to learn about the data mining task, such as associations and correlations and being able to find patterns. Also I am excited to learn about data visualization, because it is important to understand how to how your findings in a way non-computer science people will understand. 
+    
+    I would like it, if possible, to add what chapters in the book we should read before class, that would make it easier to plan out how much to read everyday. 
+
+Week 1 Day 2 Jan 16, 2025
+First of all, I just wanted to say thank you so much for adding what chapters to read in the book, this will be so helpful for reviewing the material. I really like how you started the lecture of the big picture on how the course will focus on the pyramid with the bottom being Data Sources and the top being Decision Making. This will help me when reviewing the material and think about the topics I learned in class and where does the new information land in this pyramid. Also, when learning the new terminology, having the example for each term helps me understand how their terms relate to real life data. Like with transactional data, you used a set of items the customer bought from a convenience store as an example. 
