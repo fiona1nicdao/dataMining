@@ -5,3 +5,6 @@ Reflection:
 
 Week 1 Day 2 Jan 16, 2025
 First of all, I just wanted to say thank you so much for adding what chapters to read in the book, this will be so helpful for reviewing the material. I really like how you started the lecture of the big picture on how the course will focus on the pyramid with the bottom being Data Sources and the top being Decision Making. This will help me when reviewing the material and think about the topics I learned in class and where does the new information land in this pyramid. Also, when learning the new terminology, having the example for each term helps me understand how their terms relate to real life data. Like with transactional data, you used a set of items the customer bought from a convenience store as an example. 
+
+Week 2 Day 3 Jan 21, 2025
+Thank you for bringing the hot chocolate to class on this cold day!  Having the review is very helpful to start the week of the new information we started. I never knew about the weight mean, it sounds like a good statistics to prevent outliers from skewing the data. Also The DataSaurus Dozen is really interesting and I can’t wait to hear more about it later. Right now I do not understand how all these different plots use the same data, I am interested in learning how it was done. 
