@@ -1,0 +1,65 @@
+DataSaurus Dozen - 13 plots that use the same data but look very different 
+
+Variance - how far is each data point away from the mean 
+    data is wide spread  = high variance 
+    standard deviation = sqaure root - regular unit 
+    variance is a squared units / does not matter left or right 
+    good to check SD 
+
+range - what is the different between max and min 
+    ex: 
+
+Quartiles - sort the data and are partition of the data 
+    divide the data in percential 
+    50th percential: 50% of the data to the left and right 
+    ex: donuts example 
+    dec-cil - chunck the data into 10% 
+
+Inter-Quartile range - better description tham the range
+    used to figure out the outliers 
+
+5 numbers sum : descripion of the dataset 
+
+BOx plot slide :
+    categorical variables on the x axis 
+    numeric vairable are on the y axis 
+    ex: graph for penguins 
+    long box have high variance
+    Whiskers : can't expand beyond a data point 
+        can be the min value / can be max value 
+        also can be the 1.5 X IQR min and max 
+        ex: IQR = 10 , min =9, lower whisker 1.5XIQR = 15 BUT the lower whisker is 9 because can't go beyond the min data point 
+    best to just be specific, when making plots 
+Notched box plits 
+    notches are the range of around the mean 
+    confidence internal 90% / 95%
+    use the median 
+Box plots with the data points / best practice 
+    to prevent the box plot to be misleading 
+Histograms 
+    represents the true shape of the data 
+    x - axis is always numeric 
+    measuring - 
+    dis-cro-tiz (20 bins) - KNOW how many bins are are using 
+    bin calculation : 
+        smaller bins 10 large range of each bin = oversmoothing - not good 
+        larger bins (40) = far more sensitive to noise 
+    historgrams are used to generalize  the data 
+    choice for number of bins are important 
+    need to explain why used the number of bins 
+    skeweds data (skewed distribution) - want logithmic bining so change the width of the bin 
+    historgrams - assume conitnuous distribution
+    eequal frequency binnning each bin width as the same number of data points  
+slide 44 - 47 
+slide 50 
+    pie charts are the worst 
+slide 53 
+    color choices are important 
+slide 55 
+    make sure you are using things are that are color blindness 
+    don't use only color to differeniate things 
+slide 59 
+    use proper axis 
+    don't cherry pick your data 
+    don't hide the zero 
+    use the a properate scales 

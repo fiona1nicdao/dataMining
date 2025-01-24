@@ -8,3 +8,6 @@ First of all, I just wanted to say thank you so much for adding what chapters to
 
 Week 2 Day 3 Jan 21, 2025
 Thank you for bringing the hot chocolate to class on this cold day!  Having the review is very helpful to start the week of the new information we started. I never knew about the weight mean, it sounds like a good statistics to prevent outliers from skewing the data. Also The DataSaurus Dozen is really interesting and I can’t wait to hear more about it later. Right now I do not understand how all these different plots use the same data, I am interested in learning how it was done. 
+
+week 2 Day 4 Jan 23, 2025
+I like the mini review during the start of class. It was very helpful as a reminder to where we left off from the last class. While I knew how to make a box plot and histograms, it was like how you explain why you would use a specific graph and what important information each graph is really to convey. Also I do like when you state some of the pitfalls of a bad graph like for histograms you said too few bins causes over smoothing or too many bins is more sensitive to noise. Analysing what a good and bad graph for the handout was really helpful to solidify what a good graph should look like. 
