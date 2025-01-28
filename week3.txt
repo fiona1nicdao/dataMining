@@ -1,0 +1,16 @@
+recap from last class 
+    -boxplots 
+    -notched box plots : the notches is 95% about the medium is within this range
+        slide 11: different notched box plots / 95% intervals are how confident that this sample mean is to the population medium  
+    - best practice : plot the actual dataset (don't want to overwell the readers)
+    - don't have your plots to be 
+    - box plots are uni-modol distribution 
+    -scatter plots: useful 
+        logarithm scales are good for some datasets 
+        distribution of bi-variate data to see clusters of points, outliers 
+        each pair of values treated a pair of coordinates and plotted as points in the plane 
+    - scatter plots allows use to see relations: correlated data 
+        positive correlated 
+        negatively correlated
+        uncorrelated 
+        DO not want to cherry pick your data!! 
