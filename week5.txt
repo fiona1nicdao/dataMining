@@ -1,0 +1,41 @@
+recap 
+Data Reduction 
+    - doing a sample should translate to the whole data : numerosite 
+    -changing the format, reducing the footprint / loss-less compression (database programming) : datacompression 
+        -lossy - loss some data and can't get it back 
+        -lossy compression is more efficent and faster 
+Dimensionality Reduction
+    -lossy: don't want to overdo it and throw away too much data 
+PCA - figure out a better axis 
+    - the max amount of change will be for that vector 
+PCA 
+    - first change axis to have the zero means 
+    - find the line of best fit, passing through the origin : rotate the line 
+Assigning Loadings to Genes 
+    - max variance / minimize the distance with each point on the line 
+    - red line eigenvector 
+More dimensions 
+    - review 
+    - will typically use the first principle component
+    - principle components = number of dimensions 
+    - will want to keep 2 princple components 
+tSNE to the rescue 
+     - make a distance matrix
+     -clustered data with similar values 
+     -REVIEW 
+slide 28 : tSNE practical example
+    - this is just separating the data into different clusters 
+    -not reducing dimensions 
+    -tSNE and PCA can be used together 
+    - tSNE eigen values don't change
+slide 31 
+    - do PCA first then tSNE
+    -UMAP ? 
+
+review
+- variance is the spread of the data from the mean 
+- variance is defined with one attribute / variable 
+- variance is high when there are outliers 
+-covariance is for a pair of attributes 
+
+
